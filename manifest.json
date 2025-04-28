@@ -1,0 +1,8 @@
+{
+  "name": "Regex Organizer",
+  "description": "Extension for categorizing and organizing regex scripts into folders.",
+  "version": "1.0.0",
+  "author": "En",
+  "license": "MIT",
+  "entry": "regex-organizer.js"
+}
